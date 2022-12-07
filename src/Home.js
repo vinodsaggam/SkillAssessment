@@ -37,7 +37,7 @@ const Home = () => {
             <Typography variant='h4' component='div'>
                 {userData.first_name} {userData.last_name}
             </Typography>
-            <Stack spacing={2} direction="row" sx={{ alignItems: 'center', pt: 2, width: '100%' }}>
+            <Stack spacing={2} direction="row" sx={{ alignItems: 'center', pt: 2, width: '100%', justifyContent: 'center'}}>
                 <Button onClick={() => navigate('/create')} variant='contained' sx={{ borderRadius: 3 }} color='success'> Create Account </Button>
                 {userData !== '' && <Button onClick={() => navigate('/update')} variant='contained' sx={{ borderRadius: 3 }} color='warning'> Update Account </Button>}
                 {userData !== '' && <Button onClick={() => navigate('/view')} variant='contained' sx={{ borderRadius: 3 }} color='warning'> View Account </Button>}
