@@ -41,6 +41,10 @@ table, td, tr,th {
   text-align: left;
   border: 1px solid black;
   border-collapse: collapse;
+  width: 100%;
   padding: 10px;
-  color: black
+  word-break: break-word;
+  table-layout: fixed;
+  color: black;
+
 }
