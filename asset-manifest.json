@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SkillAssessment/static/css/main.06163897.css",
-    "main.js": "/SkillAssessment/static/js/main.4b3d021b.js",
+    "main.js": "/SkillAssessment/static/js/main.cdab60ea.js",
     "index.html": "/SkillAssessment/index.html",
     "main.06163897.css.map": "/SkillAssessment/static/css/main.06163897.css.map",
-    "main.4b3d021b.js.map": "/SkillAssessment/static/js/main.4b3d021b.js.map"
+    "main.cdab60ea.js.map": "/SkillAssessment/static/js/main.cdab60ea.js.map"
   },
   "entrypoints": [
     "static/css/main.06163897.css",
-    "static/js/main.4b3d021b.js"
+    "static/js/main.cdab60ea.js"
   ]
 }
